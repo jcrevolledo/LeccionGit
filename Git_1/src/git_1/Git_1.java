@@ -17,7 +17,9 @@ public class Git_1 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+
     private void DesdeGitWeb() {
+<<<<<<< HEAD
     // Metodo nuevo
     // Test desde Netbeans
     // Branch Juanca
@@ -25,5 +27,22 @@ public class Git_1 {
     public void BranchJuanca(){
     // metodo branch Juanca
     // nuevo
+=======
+        // Metodo nuevo
+        // Test desde Netbeans
+>>>>>>> Frank
     }
+
+    public void prueba() {
+
+        System.out.println("Prueba 01");
+        
+        }
+        public void branch(){
+            
+            System.out.println("Branch Frank");
+        }
+
+    
+
 }
