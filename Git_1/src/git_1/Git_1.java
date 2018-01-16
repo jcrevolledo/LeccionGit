@@ -21,7 +21,8 @@ public class Git_1 {
     // Metodo nuevo
     // Test desde Netbeans
     // Branch Juanca
-    
-    
+    }
+    public void BranchJuanca(){
+    // metodo branch Juanca
     }
 }
