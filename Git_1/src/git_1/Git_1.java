@@ -24,6 +24,9 @@ public class Git_1 {
     }
     public void BranchJuanca(){
     // metodo branch Juanca
+<<<<<<< HEAD
     // segundo cambio
+=======
+>>>>>>> origin/Juanca
     }
 }
