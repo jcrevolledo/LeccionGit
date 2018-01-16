@@ -19,7 +19,7 @@ public class Git_1 {
     }
 
     private void DesdeGitWeb() {
-<<<<<<< HEAD
+
     // Metodo nuevo
     // Test desde Netbeans
     // Branch Juanca
@@ -27,10 +27,10 @@ public class Git_1 {
     public void BranchJuanca(){
     // metodo branch Juanca
     // nuevo
-=======
+
         // Metodo nuevo
         // Test desde Netbeans
->>>>>>> Frank
+
     }
 
     public void prueba() {
