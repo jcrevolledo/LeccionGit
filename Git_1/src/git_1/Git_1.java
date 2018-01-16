@@ -26,7 +26,13 @@ public class Git_1 {
     public void prueba() {
 
         System.out.println("Prueba 01");
+        
+        }
+        public void branch(){
+            
+            System.out.println("Branch Frank");
+        }
 
-    }
+    
 
 }
