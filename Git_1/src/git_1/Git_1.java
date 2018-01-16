@@ -17,8 +17,16 @@ public class Git_1 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+
     private void DesdeGitWeb() {
-    // Metodo nuevo
-    // Test desde Netbeans
+        // Metodo nuevo
+        // Test desde Netbeans
     }
+
+    public void prueba() {
+
+        System.out.println("Prueba 01");
+
+    }
+
 }
